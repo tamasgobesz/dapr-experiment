@@ -1,6 +1,9 @@
 # dapr-experiment
 Just a sample app to mess around with [Dapr](https://github.com/dapr/dapr) and the [Dapr .Net SDK](https://github.com/dapr/dotnet-sdk).
 
+## Overview
+![Overview](Documentation/dapr.png)
+
 ## Running the application locally
 Dapr and the application can be started simultaneously with the following command:
 ```
